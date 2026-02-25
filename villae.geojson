@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "villae",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Nr.": 1, "Villa": "Casimcea", "Location": "2 km south village", "Bibliography": "Jug?naru/Parnic, 2017: 930-931", "Latitude": 44.68664, "Longitude": 28.38365 }, "geometry": { "type": "Point", "coordinates": [ 28.38365, 44.68664 ] } },
+{ "type": "Feature", "properties": { "Nr.": 2, "Villa": "Casimcea", "Location": "400 m noth village Coltanii", "Bibliography": "Jug?naru/Parnic, 2017: 939", "Latitude": 44.73369, "Longitude": 28.37945 }, "geometry": { "type": "Point", "coordinates": [ 28.37945, 44.73369 ] } },
+{ "type": "Feature", "properties": { "Nr.": 3, "Villa": "Casimcea", "Location": "200 m south village", "Bibliography": null, "Latitude": 44.69722, "Longitude": 28.37664 }, "geometry": { "type": "Point", "coordinates": [ 28.37664, 44.69722 ] } },
+{ "type": "Feature", "properties": { "Nr.": 4, "Villa": "Sarighiol de Deal", "Location": "3 km north of Neat�rnarea Village", "Bibliography": "https://ran.cimec.ro/?codran=159874.01", "Latitude": 44.71339, "Longitude": 28.50872 }, "geometry": { "type": "Point", "coordinates": [ 28.50872, 44.71339 ] } },
+{ "type": "Feature", "properties": { "Nr.": 5, "Villa": "Ceamurlia de Jos", "Location": "200 m south east railway Ceamurlia de Jos-Constanta", "Bibliography": "Baumann, 1983: 84", "Latitude": 44.744444, "Longitude": 28.718347 }, "geometry": { "type": "Point", "coordinates": [ 28.718347, 44.744444 ] } },
+{ "type": "Feature", "properties": { "Nr.": 6, "Villa": "Ceamurlia de Jos", "Location": "1,5 km north-west for first one", "Bibliography": "Baumann, 1983: 84-85.", "Latitude": 44.74798, "Longitude": 28.715343 }, "geometry": { "type": "Point", "coordinates": [ 28.715343, 44.74798 ] } },
+{ "type": "Feature", "properties": { "Nr.": 7, "Villa": "Fantanele", "Location": "?", "Bibliography": "Suceveanu 1998a, 41", "Latitude": 44.60537, "Longitude": 28.5733363 }, "geometry": { "type": "Point", "coordinates": [ 28.5733363, 44.60537 ] } },
+{ "type": "Feature", "properties": { "Nr.": 8, "Villa": "Beidaud", "Location": "archaeological microzone ", "Bibliography": "159856.06-159856.25", "Latitude": 44.73559, "Longitude": 28.53462 }, "geometry": { "type": "Point", "coordinates": [ 28.53462, 44.73559 ] } },
+{ "type": "Feature", "properties": { "Nr.": 9, "Villa": "L. Pompeius Valens", "Location": "Nistoresti", "Bibliography": "ISM I, 373", "Latitude": 44.62465, "Longitude": 28.37598 }, "geometry": { "type": "Point", "coordinates": [ 28.37598, 44.62465 ] } },
+{ "type": "Feature", "properties": { "Nr.": 10, "Villa": "Messia Pudentilla", "Location": "near vicus Buteridava", "Bibliography": "ISM I, 359-360", "Latitude": 44.69887, "Longitude": 28.68977 }, "geometry": { "type": "Point", "coordinates": [ 28.68977, 44.69887 ] } },
+{ "type": "Feature", "properties": { "Nr.": 11, "Villa": "T. Manius Bassianus", "Location": "vicus Quintionis", "Bibliography": "ISM I, 339", "Latitude": 44.569999, "Longitude": 28.712282 }, "geometry": { "type": "Point", "coordinates": [ 28.712282, 44.569999 ] } },
+{ "type": "Feature", "properties": { "Nr.": 12, "Villa": "Braetius Favorinus", "Location": "vicus Quintionis", "Bibliography": "ISM I, 336", "Latitude": 44.63482, "Longitude": 28.72654 }, "geometry": { "type": "Point", "coordinates": [ 28.72654, 44.63482 ] } },
+{ "type": "Feature", "properties": { "Nr.": 13, "Villa": "L. Valerius Victorinus", "Location": "vicus Ulmetum", "Bibliography": "ISM V, 72", "Latitude": 44.54616, "Longitude": 28.32447 }, "geometry": { "type": "Point", "coordinates": [ 28.32447, 44.54616 ] } },
+{ "type": "Feature", "properties": { "Nr.": 14, "Villa": "Ti. Claudius Firminus", "Location": "vicus Ulmetum", "Bibliography": "ISM V, 59", "Latitude": 44.544697, "Longitude": 28.31339 }, "geometry": { "type": "Point", "coordinates": [ 28.31339, 44.544697 ] } },
+{ "type": "Feature", "properties": { "Nr.": 15, "Villa": "Flavius Macedo", "Location": "Gura Dobrogei", "Bibliography": "ISM I, 374-377", "Latitude": 44.467916, "Longitude": 28.48105 }, "geometry": { "type": "Point", "coordinates": [ 28.48105, 44.467916 ] } }
+]
+}
